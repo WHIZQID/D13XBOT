@@ -72,8 +72,8 @@ name = "~ D1XBOT"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN D1XBOT😁"
 rmenu = "HAI TEMEN D1XBOT👋 JANGAN LUPA DONASI YAA:)"
 botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
-limitt = 200
-memberLimit = 10
+limitt = 20
+memberLimit = 2
 ban = []
 premium = ["6282230208677@s.whatsapp.net","6285782003975@s.whatsapp.net","62853369666811@s.whatsapp.net"]
 

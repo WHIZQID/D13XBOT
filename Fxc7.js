@@ -75,7 +75,7 @@ botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
 limitt = 200
 memberLimit = 10
 ban = []
-premium = ["6282230208677@s.whatsapp.net"]
+premium = ["6282230208677@s.whatsapp.net","6285782003975@s.whatsapp.net","62853369666811@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){

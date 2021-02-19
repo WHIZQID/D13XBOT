@@ -243,7 +243,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 
 ╭──────「 *OTHERS FUN & GAME* 」
 ┴
-│➻ *${prefix}jadwalsholat Jemberi*
+│➻ *${prefix}jadwalsholat Jember*
 │➻ *${prefix}quran*
 │➻ *${prefix}quranlist*
 │➻ *${prefix}quransurah 1*
